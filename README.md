@@ -6,7 +6,7 @@
 - Event: [16th OpenFOAM Workshop](https://www.ucd.ie/openfoam2021/), online
 - Date: June 11, 2021
 
-[Start the presentation](https://makish.github.io/ofw16-training/) - [Get the PDF](https://github.com/MakisH/ofw16-training/blob/master/pdf-export/slides.pdf) (coming soon)
+[Start the presentation](https://makish.github.io/ofw16-training/) - [Get the PDF](https://github.com/MakisH/ofw16-training/blob/master/pdf-export/slides.pdf)
 
 ## Build
 
