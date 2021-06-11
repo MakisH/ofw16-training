@@ -1,7 +1,11 @@
 ## Some statistics
 
-Go to <a href="https://www.menti.com/seezfazt2d">menti.com</a><br/>
-and give the code 7812 7675
+<!-- Go to <a href="https://www.menti.com/seezfazt2d">menti.com</a><br/>
+and give the code 7812 7675 -->
+
+1. How familiar are you with preCICE? (poll)
+
+2. What would you like to couple OpenFOAM with/for? Which version/solver? (chat)
 
 ---
 
